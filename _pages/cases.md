@@ -1,6 +1,12 @@
 ---
-Title: "Cases"
+title: "Cases"
 permalink: /cases/
 ---
 
-a;lsdkfj;aldskj
+# **Taylor Swift**
+
+# New Jersey High Schoolers
+
+# Deepfakes At Large
+
+

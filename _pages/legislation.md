@@ -1,5 +1,9 @@
 ---
-Title: "Domestic and Foreign Legislation"
+title: "Domestic and Foreign Legislation"
 permalink: /legislation/
 ---
-legislation
+
+# H.R. 5586
+
+# AI Act
+
