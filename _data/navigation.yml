@@ -1,12 +1,8 @@
 # main links links
 main:
-<<<<<<< HEAD
+  
   - title: "Cases"
     url: /cases/
-=======
-  - title: "Testing"
-    url: /publications/
->>>>>>> refs/remotes/origin/master
 
   - title: "Legislation"
     url: /legislation/    
