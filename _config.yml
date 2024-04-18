@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Genre Remix"
 title_separator          : "-"
 name                     : &name "Austin Wang"
-description              : &description "Rhet 105 Genre Remix Project.\nAn informational website regarding responsible use of Artificial Intelligence."
+  #description              : &description "Rhet 105 Genre Remix Project.\nAn informational website regarding responsible use of Artificial Intelligence."
 url                      : https://austindoestuff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "austindoestuff/austindoestuff.github.io"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "austindoestuff"
+    #  github           : "austindoestuff"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

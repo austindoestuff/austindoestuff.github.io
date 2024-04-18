@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "test"
-    url: /test/
+  - title: "Cases"
+    url: /cases/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Legislation"
+    url: /legislation/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Additional Info"
+    url: /misc/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+#  - title: "Portfolio"
+#    url: /portfolio/
+#        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+#    
+#  - title: "CV"
+#    url: /cv/
     
   - title: "Guide"
     url: /markdown/
