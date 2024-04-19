@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Genre Remix"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Austin Wang"
   #description              : &description "Rhet 105 Genre Remix Project.\nAn informational website regarding responsible use of Artificial Intelligence."
