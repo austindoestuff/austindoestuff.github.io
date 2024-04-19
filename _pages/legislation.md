@@ -18,7 +18,7 @@ permalink: /legislation/
    * $100,000 for each generated object if there were tangible harm or risk of harm as well as the object "depicting extreme or outrageous conduct."
    * $150,000 for each record if the object depicted sexual activity or nudity or intended to humiliate or harass the person.
 
-## AI Act
+## AI Act: The European Union's Approach To AI Regulation
 
 ### Main Arguing Points
 
@@ -36,3 +36,5 @@ permalink: /legislation/
       * AI enabled video games
       * Internet filtering
       * Most systems are in this level, being mostly busy work to make life easier.
+
+## LSB10922: Legal Sidebar Discussing Copyright
