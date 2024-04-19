@@ -9,7 +9,10 @@ main:
 
   - title: "Additional Info"
     url: /misc/    
-    
+  
+  - title: "Citations"
+    url: /works/
+
 #  - title: "Portfolio"
 #    url: /portfolio/
 #        
