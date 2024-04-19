@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /cases/
+permalink: /deepfake/
 ---
 
 ## Taylor Swift

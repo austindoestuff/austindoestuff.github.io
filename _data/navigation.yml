@@ -1,8 +1,14 @@
 # main links links
 main:
   
-  - title: "Cases"
-    url: /cases/
+  - title: "Deepfakes"
+    url: /deepfake/
+
+  - title: "Generated Art"
+    url: /copyright/
+
+  - title: "Scams and Fraud"
+    url: /scam/
 
   - title: "Legislation"
     url: /legislation/    
