@@ -25,6 +25,4 @@ These cases are popping up whereever someone can get their hands on the proper s
 
 ## When
 
-The past few years since AI's introduction have been filled with 
-
-## Why
+The past few years since AI's introduction have been rife with AI powered devices, services, assistants, etc which has only trivialized using those services. As people have been getting more comfortable with these services, they have also become more comfortable with abusing them.
