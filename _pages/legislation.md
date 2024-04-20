@@ -38,3 +38,17 @@ permalink: /legislation/
       * Most systems are in this level, being mostly busy work to make life easier.
 
 ## LSB10922: Legal Sidebar Discussing Copyright
+
+### Main Arguing Points
+
+* Determines the conditions for copyright to be valid for a generated work
+   * The U.S. Copyright Office recognizes copyright only in works "created by a human being."
+   * Generative AI works could still be copyrighted if the usage of AI was used as an assistive tool.
+      * Photographs can be entitled to copyright protection where they were in control for the majority of the creative elements. Then similar to the use of photoshop, AI will be considered a tool and the copyright would still hold.
+
+* They also talk about what generative AI is allowed to be trained on since other artists' copyrighted works. Though it is allowed under the fair use guidelines:
+   * The purpose and character of the use, including whether such use is of a commerical nature or is for non profit educational purposes
+   * The nature of the copyrighted work
+   * The amount of substantiality of the portion used in relation to the copyrighted work as a whole
+   * The effect of the use upon the potential market for or value of the copyrighted work.
+* There is an argument to be made that generative AI does violate the fourth condition which would disallow its usage of other artists' works, but there hasn't been a blanket ruling yet.
