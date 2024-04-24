@@ -26,3 +26,17 @@ These cases are popping up whereever someone can get their hands on the proper s
 ## When
 
 The past few years since AI's introduction have been rife with AI powered devices, services, assistants, etc which has only trivialized using those services. As people have been getting more comfortable with these services, they have also become more comfortable with abusing them.
+
+## How did I choose the format for this site?
+
+When you first open the page, it's a landing page that is meant to act as a hook, to get your attention.
+
+From there on, I created subsections for each of my main topics from my position essay: the threats of deepfakes, copyright, and scams.
+
+Once I have grabbed the audience's attention, I wanted to create the least barrier for them to see the section that pertains to them, so I created individual pages that are easy to navigate to that talk about the specific person's worry. This allows the subject to see my information faster and easier.
+
+For each page, I talk about threats from each category, but go into much less depth than my position essay had. This allows for good information to get to the reader but without being too wordy or longwinded for them to read.
+
+On each page, I also link a youtube video from a reputable news source that will allow the subject to learn about the topic in another easy to access and understand way.
+
+Past this, I also cite my sources as an appeal to ethos, showing my credibility by allowing my audience to factcheck my research.
