@@ -12,3 +12,9 @@ There is a terrifyingly prominent threat of fraud, social engineering, disinform
 Phishing is a growing issue with the advent of rapid, international, low regulation communication. This growth has only been accelerated by the creation of machine learning; across the world, this sector of cybercrime causes over six trillion united states dollars a year of damages; between online scams, ransomware, trojan horse viruses, and purely damage-inducing malware, these are becoming an all to present threat (Morgan).
 
 The danger being, “this capability can be abused at scale to mislead potential victims into placing their trust in the hands of criminal actors,” (Europol) by creating fake hostage situations, family or friends asking for help, and much more. Disinformation has also been a very present worry for the public with bad actors using machine learning algorithms abilities to on it “[produce] authentic sounding text at speed and scale,” this usage, “makes the model ideal for propaganda.” Lastly, is the capability of machine learning algorithms to create mass waves of cybercrime by allowing anyone with access to the model to generate practically unlimited malicious scripts.
+
+## Additional Information
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djSCxz_QfIE?si=KevN7Bj5lTr0jZ7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<figcaption> Inside Edition. “Woman Says Her Daughter’s Voice Was Mimicked in AI Scam.” YouTube, YouTube, 14 Apr. 2023, www.youtube.com/watch?v=djSCxz_QfIE.</figcaption>

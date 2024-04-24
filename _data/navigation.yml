@@ -13,8 +13,8 @@ main:
   - title: "Legislation"
     url: /legislation/    
 
-  - title: "Additional Info"
-    url: /misc/    
+#  - title: "Additional Info"
+    #url: /misc/    
   
   - title: "Citations"
     url: /works/

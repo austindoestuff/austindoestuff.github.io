@@ -17,3 +17,8 @@ There has been a massive uptake in the amount of documented cases of AI generate
 
 There has now been a lot of pressure by the public to create protection, and there has been developments in England and Wales which will criminalize the sharing of deepfakes without consent and in the United States, only a few states have laws regulating this at the moment, but there have been bills proposed in Congress to create federal regulations.
 
+## Additional Information
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHHCrf2-x6w?si=ILO1JMwCF_KcdmXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<figcaption> Vox. “The Most Urgent Threat of Deepfakes Isn’t Politics.” YouTube, YouTube, 8 June 2020, www.youtube.com/watch?v=hHHCrf2-x6w. </figcaption>
