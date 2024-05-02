@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+### Could you tell at a glance that this woman isn't real?
+
+<center>
+<img src="../images/thing.jpg" alt="woman" width="450"/>
+</center>
+
+### If not, then you should be worried.
+
 ## Does AI pose a threat in the modern day?
 
 # YES.
