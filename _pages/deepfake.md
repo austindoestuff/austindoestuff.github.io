@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Deepfakes"
 permalink: /deepfake/
 ---
 
